@@ -80,6 +80,15 @@ Equitable Retrofit Navigator is a LangGraph-based multi-agent system for plannin
 - Skip Docker build:
   - `.\scripts\release.ps1 -SkipDocker`
 
+### CI/CD Bootstrap Scripts
+
+- Set GitHub secrets from your local environment variables:
+  - `.\scripts\setup-github-secrets.ps1`
+- Deploy Terraform interactively:
+  - `.\scripts\deploy-terraform.ps1`
+- Deploy Terraform with auto-approve:
+  - `.\scripts\deploy-terraform.ps1 -AutoApprove`
+
 ### Data Sources
 
 - Mock mode (default):

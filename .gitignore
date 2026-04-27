@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 .env
 .cursor-cache/
+infra/terraform/.terraform/
