@@ -1,0 +1,11 @@
+---
+description: LL97 and equity standards for retrofit planning tasks
+alwaysApply: true
+---
+
+# LL97 + Equity Standards
+
+- Cite legal or program sources whenever a recommendation depends on policy or funding.
+- If data needed for compliance calculations is missing, ask the user instead of estimating.
+- Keep resident affordability and comfort explicit in decisions.
+- Flag assumptions as assumptions; never present mock numbers as verified.

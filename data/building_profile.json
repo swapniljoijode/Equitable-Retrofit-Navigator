@@ -1,0 +1,17 @@
+{
+  "building_id": "bronx_mock_001",
+  "name": "Morris Avenue Affordable Apartments",
+  "borough": "Bronx",
+  "address": "1200 Morris Ave, Bronx, NY",
+  "units": 50,
+  "year_built": 1972,
+  "occupancy_type": "Affordable multifamily",
+  "heating_system": "No. 2 fuel oil boiler",
+  "cooling_system": "Window AC units",
+  "insulation_quality": "poor",
+  "energy_star_score": 34,
+  "estimated_annual_energy_use_mmbtu": 6100,
+  "estimated_annual_co2e_tons": 480,
+  "estimated_annual_utility_cost_usd": 210000,
+  "notes": "High carbon output profile for LL97 risk modeling."
+}

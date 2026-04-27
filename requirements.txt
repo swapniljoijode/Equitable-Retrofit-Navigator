@@ -1,0 +1,10 @@
+langgraph
+langchain
+openai
+chromadb
+pydantic
+streamlit
+fastapi
+uvicorn
+python-dotenv
+pytest

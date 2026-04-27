@@ -1,0 +1,12 @@
+---
+description: Python and LangGraph implementation conventions
+globs: src/**/*.py
+alwaysApply: false
+---
+
+# Python LangGraph Conventions
+
+- Keep node functions pure and deterministic over `GraphState`.
+- Use pydantic models for structured outputs across node boundaries.
+- Prefer explicit conditional routers over implicit branching in node internals.
+- Prevent unbounded loops with retry counters and human handoff paths.
